@@ -1,0 +1,11 @@
+
+Pinging www.google.com [2404:6800:4009:829::2004] with 32 bytes of data:
+Reply from 2404:6800:4009:829::2004: time=49ms 
+Reply from 2404:6800:4009:829::2004: time=50ms 
+Reply from 2404:6800:4009:829::2004: time=59ms 
+Reply from 2404:6800:4009:829::2004: time=521ms 
+
+Ping statistics for 2404:6800:4009:829::2004:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 521ms, Average = 169ms

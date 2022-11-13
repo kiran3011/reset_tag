@@ -1,0 +1,93 @@
+total 3
+-rw-r--r-- 1 kiran 197609  27 Nov 13 20:09 f1.txt
+-rw-r--r-- 1 kiran 197609   0 Nov 13 20:08 f2
+-rw-r--r-- 1 kiran 197609  27 Nov 13 20:10 f2.txt
+-rw-r--r-- 1 kiran 197609   0 Nov 14 00:02 ls-l.txt
+-rw-r--r-- 1 kiran 197609 306 Nov 14 00:02 ls.txt
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read1
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read10
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read11
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read12
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read13
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read14
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read15
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read16
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read17
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read18
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read19
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read2
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read20
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read3
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read4
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read5
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read6
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read7
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read8
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 read9
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write1
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write10
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write11
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write12
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write13
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write14
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write15
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write16
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write17
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write18
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write19
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write2
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write20
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write3
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write4
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write5
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write6
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write7
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write8
+-rw-r--r-- 1 kiran 197609   0 Nov 13 23:54 write9
+./
+../
+f1.txt
+f2
+f2.txt
+ls-l.txt
+ls.txt
+read1
+read10
+read11
+read12
+read13
+read14
+read15
+read16
+read17
+read18
+read19
+read2
+read20
+read3
+read4
+read5
+read6
+read7
+read8
+read9
+write1
+write10
+write11
+write12
+write13
+write14
+write15
+write16
+write17
+write18
+write19
+write2
+write20
+write3
+write4
+write5
+write6
+write7
+write8
+write9
